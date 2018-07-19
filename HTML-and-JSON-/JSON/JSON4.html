@@ -1,0 +1,18 @@
+<!doctype html><!--Looping an object-->
+<html >
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+<p>other way of accessing</p>
+<p id="demo"></p>
+<script>
+var x;
+var obj={"name":"bagath","age":28,"job":{"class1":"childwood","class2":"study","class3":"FreedomFighter"}}
+
+document.getElementById("demo").innerHTML += obj.job.class3 + "<br>";
+</Script>
+
+  
+ </body>
+</html>
