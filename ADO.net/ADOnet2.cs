@@ -20,10 +20,10 @@ namespace ADOnet1
                 con = new SqlConnection("Data Source = DELL\\SQLEXPRESS; Database=Student; integrated security =SSPI");
 
 
-                SqlCommand sc = new SqlCommand("insert into Student(id, name, email, join_date) values('100','balu','baluu@gmail.com','11/07/2018')", con);
-               SqlCommand sc1= new SqlCommand("insert into Student  (id, name, email, join_date) values('102','Ronald Trump','ronald@example.com','1/12/2017')", con);
-                SqlCommand sc2 = new SqlCommand("insert into Student(id, name, email, join_date) values('103','Royal','Roayabalu@gmail.com','11/07/2018')", con);
-                SqlCommand sc3 = new SqlCommand("insert into Student(id, name, email, join_date) values('104','Enfield','Emfirldbalu@gmail.com','10/07/2018')", con);
+                SqlCommand sc = new SqlCommand("insert into Result(id, name, grade, result) values('100','balu','A','pass')", con);
+               SqlCommand sc1= new SqlCommand("insert into Result  (id, name, grade, result) values('102','Ronald Trump','B','pass')", con);
+                SqlCommand sc2 = new SqlCommand("insert into Result(id, name, grade, result) values('103','Royal','C','fail')", con);
+                SqlCommand sc3 = new SqlCommand("insert into Result(id, name, grade, result) values('104','Enfield','A','pass')", con);
 
                 con.Open();
 
