@@ -1,0 +1,7 @@
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\NetworkPrograming\bin\Debug\NetworkPrograming.exe.config
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\NetworkPrograming\bin\Debug\NetworkPrograming.exe
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\NetworkPrograming\bin\Debug\NetworkPrograming.pdb
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\NetworkPrograming\obj\Debug\NetworkPrograming.csprojAssemblyReference.cache
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\NetworkPrograming\obj\Debug\NetworkPrograming.csproj.CoreCompileInputs.cache
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\NetworkPrograming\obj\Debug\NetworkPrograming.exe
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\NetworkPrograming\obj\Debug\NetworkPrograming.pdb
