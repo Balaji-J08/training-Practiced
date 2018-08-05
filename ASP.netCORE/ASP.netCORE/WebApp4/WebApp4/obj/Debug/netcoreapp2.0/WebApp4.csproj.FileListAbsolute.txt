@@ -1,0 +1,11 @@
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\bin\Debug\netcoreapp2.0\WebApp4.deps.json
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\bin\Debug\netcoreapp2.0\WebApp4.runtimeconfig.json
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\bin\Debug\netcoreapp2.0\WebApp4.runtimeconfig.dev.json
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\bin\Debug\netcoreapp2.0\WebApp4.dll
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\bin\Debug\netcoreapp2.0\WebApp4.pdb
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\obj\Debug\netcoreapp2.0\WebApp4.csprojAssemblyReference.cache
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\obj\Debug\netcoreapp2.0\WebApp4.csproj.CoreCompileInputs.cache
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\obj\Debug\netcoreapp2.0\WebApp4.AssemblyInfoInputs.cache
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\obj\Debug\netcoreapp2.0\WebApp4.AssemblyInfo.cs
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\obj\Debug\netcoreapp2.0\WebApp4.dll
+E:\Bizruntime\workspace\c#.netprogram\ASP.netCORE\WebApp4\WebApp4\obj\Debug\netcoreapp2.0\WebApp4.pdb
