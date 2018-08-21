@@ -1,0 +1,11 @@
+package JavaRestfull.First;
+import javax.ws.rs.Path;
+
+@Path("/div");
+public class firstcls 
+{
+
+public 
+	
+	
+}
