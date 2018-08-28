@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+E:\Bizruntime\JAVA_Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-79780092.index
-2647132486.index

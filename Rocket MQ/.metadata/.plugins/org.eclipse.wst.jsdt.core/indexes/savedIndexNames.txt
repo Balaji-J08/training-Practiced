@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+E:\Bizruntime\Rocket MQ_Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1281864813.index
-3680492601.index
-990679467.index
-2830691862.index
-1134044188.index

@@ -1,6 +1,0 @@
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\client2\bin\Debug\client2.exe.config
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\client2\bin\Debug\client2.exe
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\client2\bin\Debug\client2.pdb
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\client2\obj\Debug\client2.csproj.CoreCompileInputs.cache
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\client2\obj\Debug\client2.exe
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\client2\obj\Debug\client2.pdb

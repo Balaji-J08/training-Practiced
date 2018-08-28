@@ -1,7 +1,0 @@
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\bin\Debug\Client1.exe.config
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\bin\Debug\Client1.exe
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\bin\Debug\Client1.pdb
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\Client1.exe
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\Client1.pdb
-E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\Client1.csprojAssemblyReference.cache
