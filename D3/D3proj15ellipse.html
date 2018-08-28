@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+<script src="E:\Bizruntime\D3\a D3 LIBRARY\d3.min.js"></script>
+</head>
+
+<body>
+    <!--<svg height="1000" width="1000" >
+        <ellipse cx="250" cy="250" rx="150" ry="100" fill="green"/>
+    -->
+    </svg>
+
+    <script>
+    var height="500";
+    var width="500";
+
+
+
+    var svg=d3.select("body").append("svg").attr("height",height).attr("width",width);
+    svg.append("ellipse").attr("cx",150).attr("cy",150).attr("rx",100).attr("ry",50).attr("fill","green");
+
+    svg.append("text").attr("x",110).attr("y",150).attr("stroke","Red").text("yaa Here i am");
+    
+    
+    </script>
+</body>
+</html>
