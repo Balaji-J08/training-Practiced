@@ -1,0 +1,25 @@
+package com.main;
+
+import java.util.Arrays;
+import java.util.List;
+
+import io.reactivex.Observable;
+
+
+;
+
+public class React 
+{
+	public static void main(String[] args) {
+		
+List<String> FruitList =Arrays.asList("apple","Orange","Banana");
+Observable<List<String>> ObservableString= Observable.fromIterable(FruitList);
+//Observable<String> ObservableString=Observable.fromArray(FruitList);
+ObservableString.Subscribe(new Obeserver())	;	
+		
+		
+	}
+
+	
+	
+}
