@@ -1,0 +1,13 @@
+package com.app;
+
+import javax.ws.rs.Path;
+
+@Path("/msg")
+public class first {
+	@GET
+	public Sttring Hii()
+	{
+		return "Hii Everyone";
+	}
+
+}

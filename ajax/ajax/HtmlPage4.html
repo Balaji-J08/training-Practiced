@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>Datas from the XML</h1>
+    <p id="demo">DATA</p>
+    <button type="button" onclick="loadfun()">ENTER</button>
+    <script>
+        var xmldoc, x, i,txt;
+        function loadfun()
+        {
+            var xhttp = new XMLHttpRequest();
+
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    xmldoc = this.responseXML;
+                    txt = "";
+                    x = xmldoc.getElementsByTagName("ARTIST");
+                    for (i = 0; i < x.length; i++)
+                    {
+                        txt = txt + x[i].childNodes[0].nodeValue + "<br>";  
+                        
+                    }
+                    document.getElementById("demo").innerHTML = txt;
+                }
+
+
+            };
+
+            xhttp.open("GET", "HtmlPage4.xml", true);
+            xhttp.send();
+
+
+        }
+
+
+
+   </script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\bin\Debug\Client1.exe.config
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\bin\Debug\Client1.exe
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\bin\Debug\Client1.pdb
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\CLIENTS.csproj.CoreCompileInputs.cache
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\Client1.exe
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\Client1.pdb
+E:\Bizruntime\workspace\c#.netprogram\july17\NetworkPrograming\Client1\obj\Debug\CLIENTS.csprojAssemblyReference.cache
+E:\Bizruntime\workspace\EXAM\NetworkPrograming\Client1\bin\Debug\Client1.exe.config
+E:\Bizruntime\workspace\EXAM\NetworkPrograming\Client1\bin\Debug\Client1.exe
+E:\Bizruntime\workspace\EXAM\NetworkPrograming\Client1\bin\Debug\Client1.pdb
+E:\Bizruntime\workspace\EXAM\NetworkPrograming\Client1\obj\Debug\CLIENTS.csprojAssemblyReference.cache
+E:\Bizruntime\workspace\EXAM\NetworkPrograming\Client1\obj\Debug\CLIENTS.csproj.CoreCompileInputs.cache
+E:\Bizruntime\workspace\EXAM\NetworkPrograming\Client1\obj\Debug\Client1.exe
+E:\Bizruntime\workspace\EXAM\NetworkPrograming\Client1\obj\Debug\Client1.pdb

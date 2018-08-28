@@ -1,0 +1,33 @@
+﻿<!doctype>
+<html>
+<head>
+<title>ajax programs</title>
+</head>
+<body>
+    <h1>XmlHttprequest Object</h1>
+    <p id="demo">these text can be changed</p>
+    <button type="button" onclick="load()">Click on me</button>
+<script>
+    function load() {
+        //var xhttp;
+        //if (window.XMLHttpRequest) {
+        //    // code for modern browsers
+        //    xhttp = new XMLHttpRequest();
+        //} else {
+        //    // code for IE6, IE5
+        //    xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        //}
+         var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                document.getElementById("demo").innerHTML = this.responseText;
+            }
+        };
+        xhttp.open("GET", "HtmlPage2.txt", true);
+        xhttp.send();
+
+
+    }
+</script>
+</body>
+</html>
