@@ -1,0 +1,33 @@
+<!doctype html><!--Looping an object-->
+<html >
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+<p> Modification1...</p>
+<p id="demo"></p>
+
+<script>
+var x,i;
+var obj={"name":"bagath","age":28,"job":{"class1":"childwood","class2":"study","class3":"FreedomFighter"}}
+
+delete obj.job.class2;
+
+for (i in obj.job)
+{
+
+x += obj.job[i] + "<br>";
+}
+document.getElementById("demo").innerHTML = x;
+/*
+document.getElementById("demo").innerHTML += obj.job.class3 + "<br>";
+obj.name="BhagathSingh";
+obj.job["class3"]="The great FReedomFighter";
+document.getElementById("demo1").innerHTML += obj.job.class3 + "<br>";
+document.getElementById("demo2").innerHTML += obj.name + "<br>";*/
+</Script>
+
+
+  
+ </body>
+</html>

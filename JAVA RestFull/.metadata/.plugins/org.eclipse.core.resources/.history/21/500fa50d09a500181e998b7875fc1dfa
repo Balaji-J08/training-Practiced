@@ -1,0 +1,17 @@
+package JavaRestfull.First;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+@Path("/div")
+public class firstcls {
+
+	
+	@GET()
+	@Path("/msg")
+public String SayHi()
+{
+	return "Hiiiiiii everyone..Lets start the Work!!!";
+}
+	
+	
+}

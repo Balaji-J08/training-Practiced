@@ -1,0 +1,25 @@
+<!doctype html><!--Looping an object-->
+<html >
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+<p> Modification...</p>
+<p id="demo"></p>
+<p><u>after modification</u></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+<script>
+var x;
+var obj={"name":"bagath","age":28,"job":{"class1":"childwood","class2":"study","class3":"FreedomFighter"}}
+
+document.getElementById("demo").innerHTML += obj.job.class3 + "<br>";
+obj.name="BhagathSingh";
+obj.job["class3"]="The great FReedomFighter";
+document.getElementById("demo1").innerHTML += obj.job.class3 + "<br>";
+document.getElementById("demo2").innerHTML += obj.name + "<br>";
+</Script>
+
+  
+ </body>
+</html>

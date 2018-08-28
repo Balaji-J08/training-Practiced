@@ -1,0 +1,14 @@
+E:\Bizruntime\workspace\c#.netprogram\ADOnet\ADOnet1\ADOnet1\bin\Debug\ADOnet1.exe.config
+E:\Bizruntime\workspace\c#.netprogram\ADOnet\ADOnet1\ADOnet1\bin\Debug\ADOnet1.exe
+E:\Bizruntime\workspace\c#.netprogram\ADOnet\ADOnet1\ADOnet1\bin\Debug\ADOnet1.pdb
+E:\Bizruntime\workspace\c#.netprogram\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.csprojAssemblyReference.cache
+E:\Bizruntime\workspace\c#.netprogram\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.csproj.CoreCompileInputs.cache
+E:\Bizruntime\workspace\c#.netprogram\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.exe
+E:\Bizruntime\workspace\c#.netprogram\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.pdb
+E:\Bizruntime\workspace\EXAM\ADOnet\ADOnet1\ADOnet1\bin\Debug\ADOnet1.exe.config
+E:\Bizruntime\workspace\EXAM\ADOnet\ADOnet1\ADOnet1\bin\Debug\ADOnet1.exe
+E:\Bizruntime\workspace\EXAM\ADOnet\ADOnet1\ADOnet1\bin\Debug\ADOnet1.pdb
+E:\Bizruntime\workspace\EXAM\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.csprojAssemblyReference.cache
+E:\Bizruntime\workspace\EXAM\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.csproj.CoreCompileInputs.cache
+E:\Bizruntime\workspace\EXAM\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.exe
+E:\Bizruntime\workspace\EXAM\ADOnet\ADOnet1\ADOnet1\obj\Debug\ADOnet1.pdb

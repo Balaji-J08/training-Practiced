@@ -1,0 +1,7 @@
+E:\Bizruntime\workspace\EXAM\fileio\fileio\obj\Debug\fileio.csprojAssemblyReference.cache
+E:\Bizruntime\workspace\EXAM\fileio\fileio\obj\Debug\fileio.csproj.CoreCompileInputs.cache
+E:\Bizruntime\workspace\EXAM\fileio\fileio\bin\Debug\fileio.exe.config
+E:\Bizruntime\workspace\EXAM\fileio\fileio\bin\Debug\fileio.exe
+E:\Bizruntime\workspace\EXAM\fileio\fileio\bin\Debug\fileio.pdb
+E:\Bizruntime\workspace\EXAM\fileio\fileio\obj\Debug\fileio.exe
+E:\Bizruntime\workspace\EXAM\fileio\fileio\obj\Debug\fileio.pdb

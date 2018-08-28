@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title>TO Stringify</title>
+</head>
+<body>
+<p>Details of a person</p>
+<p id="demo"></p>
+<p id="demo1"></p>
+<script>
+var obj = {"name":"Balaji","Qualification":"BE","age":24};
+var tex = '{"name":"Bhagath","Nationality":"INDIAN","JOB":"FreedomFighter"}';
+var obb = JSON.parse(tex);
+
+var myJSON = JSON.stringify(obj);
+document.getElementById("demo1").innerHTML=obb;
+document.getElementById("demo").innerHTML = myJSON;
+
+
+
+</script>
+</body>
+</html>
+
+

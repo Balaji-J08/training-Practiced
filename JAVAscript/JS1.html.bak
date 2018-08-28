@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>First JavaScrpt program</title>
+</head>
+<body>
+<p>JAVASCRIPT</p>
+<p id="demo" ></p>
+<script>
+
+var x = mul(10, 10);
+
+
+function mul(a,b)
+{
+return a * b;
+
+}
+document.getElementById("demo").innerHTML = x;
+
+</script>
+</body>
+</html>
+
+
+
+
+
